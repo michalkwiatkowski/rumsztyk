@@ -1,4 +1,4 @@
-rumsztyk
+Rumsztyk
 ========
 
-rumsztyk is a simple API wrapper for www.allegro.pl web API.
+Rumsztyk is a simple Ruby API wrapper for www.allegro.pl web API.
